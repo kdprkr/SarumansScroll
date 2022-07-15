@@ -1,0 +1,2 @@
+"info"	"path"	"object"	"script"	"section"	"heading"
+"provenance for output"	"/Users/rosalind/Desktop/SarumansScroll/vault/manifest_R1.csv"	"M.mft"	"Script01"	"Section M - STEP 2"	"create manifest"

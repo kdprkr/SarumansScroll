@@ -1,0 +1,2 @@
+"info"	"path"	"object"	"script"	"section"	"heading"
+"provenance for output"	"/Users/darwin/Desktop/SarumansScroll/vault/tree_EBTKS_processed.nwk"	"T.EBTKS_pro_tree"	"Script02"	"Section T - STEP 1"	"create a rooted phylogenetic tree from processed EBTKS"

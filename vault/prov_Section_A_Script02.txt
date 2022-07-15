@@ -1,0 +1,3 @@
+"info"	"path"	"object"	"script"	"section"	"heading"
+"provenance for output"	"/Users/darwin/Desktop/SarumansScroll/vault/table_EBTKS_abs_raw.txt"	"A.EBTKS_abs_raw"	"Script02"	"Section A - STEP 2"	"create master table (EBTKS)"
+"provenance for output"	"/Users/darwin/Desktop/SarumansScroll/vault/table_EBTKS_abs_processed.txt"	"A.EBTKS_abs_pro"	"Script02"	"Section A - STEP 3d"	"process EBTKS: remove zero count features"
