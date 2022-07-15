@@ -1,0 +1,7 @@
+"info"	"value"	"object"	"script"	"section"	"heading"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group cEcum; Proximal colon; Distal colon; feces"	"S.abs_aom_EPDf"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group cEcum; Proximal colon; Distal colon"	"S.abs_aom_EPD"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group Proximal colon; Distal colon"	"S.abs_aom_PD"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group cEcum"	"S.abs_aom_E"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group Proximal colon"	"S.abs_aom_P"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"
+"groups isolated from A.EBTKS_abs_pro"	"AOM_DSS group Distal colon"	"S.abs_aom_D"	"Script02"	"Section S - STEP 1"	"subset EBTKS: split by Cohort and Type"

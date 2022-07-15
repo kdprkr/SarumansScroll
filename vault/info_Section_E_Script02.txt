@@ -1,0 +1,5 @@
+"info"	"value"	"object"	"script"	"section"	"heading"
+"groups isolated from E.smp_adiv"	"AOM_DSS group cEcum; Proximal colon; Distal colon"	"E.adiv_aom_EPD"	"Script02"	"Section E - STEP 1a"	"format data for statistics and plotting"
+"groups isolated from E.smp_adiv"	"AOM_DSS group Proximal and Distal colon (grouped together)"	"E.adiv_aom_cln"	"Script02"	"Section E - STEP 1a"	"format data for statistics and plotting"
+"groups isolated from E.smp_adiv"	"AOM_DSS group Proximal colon; Distal colon"	"E.adiv_aom_PD"	"Script02"	"Section E - STEP 1a"	"format data for statistics and plotting"
+"groups isolated from E.smp_adiv"	"AOM_DSS group cEcum"	"E.adiv_aom_E"	"Script02"	"Section E - STEP 1a"	"format data for statistics and plotting"

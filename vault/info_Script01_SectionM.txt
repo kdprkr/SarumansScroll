@@ -1,0 +1,2 @@
+"info"	"value"	"object"	"script"	"section"	"heading"
+"number of samples in manifest"	273	"M.mft"	"Script01"	"Section M - STEP 2"	"create manifest"

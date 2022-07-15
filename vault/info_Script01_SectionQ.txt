@@ -1,0 +1,8 @@
+"info"	"value"	"object"	"script"	"section"	"heading"
+"number samples post import"	273	"reads.qza"	"Script01"	"Section Q - STEP 1"	"import raw fastq seqs"
+"number reads post import"	9121905	"reads.qza"	"Script01"	"Section Q - STEP 1"	"import raw fastq seqs"
+"number samples post cutadapt"	273	"reads_trimd.qzv"	"Script01"	"Section Q - STEP 2"	"remove adapter sequences"
+"number reads post cutadapt"	9121905	"reads_trimd.qzv"	"Script01"	"Section Q - STEP 2"	"remove adapter sequences"
+"Number of samples"	273	"fts_tab.qza"	"Script01"	"Section Q - STEP 3"	"dada2"
+"Number of features"	3536	"fts_tab.qza"	"Script01"	"Section Q - STEP 3"	"dada2"
+"Total frequency"	7839387	"fts_tab.qza"	"Script01"	"Section Q - STEP 3"	"dada2"
